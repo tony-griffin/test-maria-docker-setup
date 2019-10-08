@@ -1,0 +1,11 @@
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/obj/Debug/netcoreapp3.0/MariaExpoDockerProj.csprojAssemblyReference.cache
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/obj/Debug/netcoreapp3.0/MariaExpoDockerProj.AssemblyInfoInputs.cache
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/obj/Debug/netcoreapp3.0/MariaExpoDockerProj.AssemblyInfo.cs
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj.deps.json
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj.dll
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj.pdb
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/obj/Debug/netcoreapp3.0/MariaExpoDockerProj.dll
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/obj/Debug/netcoreapp3.0/MariaExpoDockerProj.pdb
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj.runtimeconfig.json
+/Users/tonygriffin/RiderProjects/MariaExpoDockerSol/MariaExpoDockerProj/bin/Debug/netcoreapp3.0/MariaExpoDockerProj.runtimeconfig.dev.json
